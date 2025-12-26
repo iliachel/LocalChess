@@ -1,0 +1,12 @@
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_server.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_client1.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_client2.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/run_all.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_server_autogen_timestamp_deps.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_server_autogen.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_client1_autogen_timestamp_deps.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_client1_autogen.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_client2_autogen_timestamp_deps.dir
+D:/Projects/LocalChess/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/chess_client2_autogen.dir
